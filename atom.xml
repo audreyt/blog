@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Open Culture]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://blog.opencutlure.org/"/>
+  <updated>2015-10-11T19:05:18.000Z</updated>
+  <id>http://blog.opencutlure.org/</id>
+  
+  <author>
+    <name><![CDATA[Open Culture Foundation]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[The Open Culture Blog]]></title>
+    <link href="http://blog.opencutlure.org/2015/10/09/first-post/"/>
+    <id>http://blog.opencutlure.org/2015/10/09/first-post/</id>
+    <published>2015-10-09T16:35:44.000Z</published>
+    <updated>2015-10-11T19:05:18.000Z</updated>
+    <content type="html"><![CDATA[<h1>Coming Soon!</h1>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1>Coming Soon!</h1>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
