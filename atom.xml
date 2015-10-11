@@ -3,9 +3,9 @@
   <title><![CDATA[Open Culture]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://blog.opencutlure.org/"/>
-  <updated>2015-10-11T19:05:18.000Z</updated>
-  <id>http://blog.opencutlure.org/</id>
+  <link href="http://blog.openculture.org/"/>
+  <updated>2015-10-11T19:18:17.000Z</updated>
+  <id>http://blog.openculture.org/</id>
   
   <author>
     <name><![CDATA[Open Culture Foundation]]></name>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[The Open Culture Blog]]></title>
-    <link href="http://blog.opencutlure.org/2015/10/09/first-post/"/>
-    <id>http://blog.opencutlure.org/2015/10/09/first-post/</id>
+    <link href="http://blog.openculture.org/2015/10/09/first-post/"/>
+    <id>http://blog.openculture.org/2015/10/09/first-post/</id>
     <published>2015-10-09T16:35:44.000Z</published>
-    <updated>2015-10-11T19:05:18.000Z</updated>
+    <updated>2015-10-11T19:18:17.000Z</updated>
     <content type="html"><![CDATA[<h1>Coming Soon!</h1>
 ]]></content>
     <summary type="html">
